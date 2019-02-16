@@ -25,6 +25,7 @@
     "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.2",
+    "gulp-template-compile": "^1.4.0",
     "lodash": "^4.17.11"
   }
 }
