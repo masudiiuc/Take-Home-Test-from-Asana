@@ -2,7 +2,8 @@
     'use strict';
     var app = {
         run : function () {
-            pets_gallary.init();
+            var pet_gallary_obj = pets_gallary();
+            pet_gallary_obj.init();
         }
     };
 
